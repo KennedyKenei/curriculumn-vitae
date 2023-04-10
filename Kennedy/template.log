@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.4)  5 APR 2023 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.4.4)  10 APR 2023 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,26 +273,26 @@ ailable
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
 (Font)              scaled to size 10.95pt on input line 65.
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--98
+Underfull \hbox (badness 10000) in paragraph at lines 89--114
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 142--154
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 171--183
 
  []
 
-[2] (./template.aux) ) 
+[3] (./template.aux) ) 
 Here is how much of TeX's memory you used:
  3704 strings out of 478023
  63674 string characters out of 5841209
- 370372 words of memory out of 5000000
+ 369372 words of memory out of 5000000
  22126 multiletter control sequences out of 15000+600000
  478876 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,76p,554b,255s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,6n,76p,502b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond
 /ebgm_tsrvmb.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm
 _fc2mbn.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGara
@@ -300,10 +300,10 @@ mond-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/EBGa
 ramond-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ebgaramond/
 EBGaramond-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb>
-Output written on template.pdf (2 pages, 318339 bytes).
+Output written on template.pdf (3 pages, 319995 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
